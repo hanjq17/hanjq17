@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hanjq17.hanjq17&left_color=green&right_color=blue)
 
-I am currently a student researcher at Tsinghua University. I will be joining Stanford University as a PhD student in 2023 fall.
+I will be joining Stanford University as a PhD student in 2023 fall.
 
 - My research interest lies in designing novel graph neural networks for various application scenarios, particularly AI4Science.
 
