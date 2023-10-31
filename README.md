@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hanjq17.hanjq17&left_color=green&right_color=blue)
 
-I will be joining Stanford University as a PhD student in 2023 fall.
+I am a first-year PhD student of Computer Science at Stanford University.
 
 - My research interest lies in designing novel graph neural networks for various application scenarios, particularly AI4Science.
 
