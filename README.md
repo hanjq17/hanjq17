@@ -1,6 +1,6 @@
 ### Hi, welcome to Jiaqi Han's GitHub 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hanjq17.hanjq17&left_color=green&right_color=blue)
+![](https://komarev.com/ghpvc/?username=hanjq17&color=blue)
 
 I am a first-year PhD student of Computer Science at Stanford University.
 
