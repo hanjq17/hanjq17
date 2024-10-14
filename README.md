@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=hanjq17&color=blue)
 
-I am a first-year PhD student of Computer Science at Stanford University.
+I am a second-year PhD student of Computer Science at Stanford University.
 
 - My research interest lies in generative models, graph neural networks, and temporal modeling.
 
