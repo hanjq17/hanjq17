@@ -4,7 +4,7 @@
 
 I am a third-year PhD student of Computer Science at Stanford University.
 
-- My research interest lies in generative models, graph neural networks, and temporal modeling.
+- I do research on generative models.
 
 - Find my recent works and publications on [my website](https://hanjq17.github.io/)!
 
