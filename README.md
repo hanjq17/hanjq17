@@ -4,7 +4,7 @@
 
 I am a third-year PhD student of Computer Science at Stanford University.
 
-- I design on generative models.
+- I design generative models.
 
 - Find my recent works and publications on [my website](https://hanjq17.github.io/)!
 
